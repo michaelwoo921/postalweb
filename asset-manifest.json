@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/postalweb/static/css/main.073c9b0a.css",
+    "main.js": "/postalweb/static/js/main.b37507b7.js",
+    "static/js/787.82c7a2a0.chunk.js": "/postalweb/static/js/787.82c7a2a0.chunk.js",
+    "static/media/logo.svg": "/postalweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/postalweb/index.html",
+    "main.073c9b0a.css.map": "/postalweb/static/css/main.073c9b0a.css.map",
+    "main.b37507b7.js.map": "/postalweb/static/js/main.b37507b7.js.map",
+    "787.82c7a2a0.chunk.js.map": "/postalweb/static/js/787.82c7a2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b37507b7.js"
+  ]
+}
